@@ -16,19 +16,19 @@ A complete authentication system built with Node.js, Express, Passport, Mongoose
 ## Application Screenshots
 
 ### Welcome Page
-![Welcome Page](welcome.png)
+![Welcome Page](welcome.PNG)
 *Landing page with options to register or login*
 
 ### Login Page
-![Login Page](login.png)
+![Login Page](login.PNG)
 *User login interface with email and password fields*
 
 ### Registration Page
-![Registration Page](register.png)
+![Registration Page](register.PNG)
 *New user registration form with validation*
 
 ### Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.PNG)
 *Protected dashboard page showing user information*
 
 ## Prerequisites
