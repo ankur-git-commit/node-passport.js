@@ -28,8 +28,8 @@ A complete authentication system built with Node.js, Express, Passport, Mongoose
 *New user registration form with validation*
 
 ### Dashboard
-![Dashboard](dashboard.PNG)
-*Protected dashboard page showing user information*
+![Dashboard](dashboard.PNG)<br>
+*Protected dashboard page showing user information*<>
 
 ## Prerequisites
 
