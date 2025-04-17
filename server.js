@@ -10,10 +10,9 @@ import colors from "colors"
 import connectDB from "./config/db.js"
 import { indexRouter } from "./routes/index.js"
 import { userRouter } from "./routes/user.js"
-import auth from "./config/configurePassport.js"
 import configurePassport from "./config/configurePassport.js"
 
-const PORT = process.env.PORT || 5000
+const PORT = process.env.PORT || 3000
 const app = express()
 
 // EJS
